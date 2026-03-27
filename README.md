@@ -125,4 +125,4 @@ The dashboard reflects practical business intelligence skills required for Data 
 
 ##  Author
 
-Shreya Chanore  
+Shweta Wasnik
