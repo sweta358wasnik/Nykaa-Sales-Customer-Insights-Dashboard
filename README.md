@@ -41,7 +41,8 @@ The objective of this project is to transform raw e-commerce data into meaningfu
 
 ## 1️ KPI Overview
 
-![KPI Overview](Screenshots/[Uploading KPI Overview.png…]()
+![KPI Overview](Screenshots/<img width="1052" height="593" alt="KPI Overview" src="https://github.com/user-attachments/assets/60e2ef5e-b48d-4df2-8309-fd469cdf19f2" />
+
 
 
 - Displays overall business performance including total sales, cost, margin, and quantity sold.
@@ -63,8 +64,8 @@ The objective of this project is to transform raw e-commerce data into meaningfu
 
 ## 3 Margin & Profit Insights
 
-![Margin and Profit Insights](Screenshots/![Uploading Margin & Profit Insights.png…]()
-)
+![Margin and Profit Insights](Screenshots/<img width="1120" height="635" alt="Margin   Profit Insights" src="https://github.com/user-attachments/assets/a0c64369-08f2-4ffc-b399-cbae108583ab" />
+
 
 - Compares total cost price and selling price to evaluate profitability.
 - Identifies top 10 high-margin products.
@@ -75,7 +76,8 @@ The objective of this project is to transform raw e-commerce data into meaningfu
 
 ## 4 Rating & Customer Insights
 
-![Rating and Customer Insights](Screenshots/)
+![Rating and Customer Insights](Screenshots/<img width="1122" height="628" alt="Rating by Category Insights" src="https://github.com/user-attachments/assets/148a99b0-f661-4253-87e3-134fc6404c49" />
+)
 
 - Analyzes top-rated products and customer review volume.
 - Compares average ratings across categories.
